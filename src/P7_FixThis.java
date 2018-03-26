@@ -1,7 +1,7 @@
 /*
 	ISYS 320
-	Name(s):
-	Date: 
+	Name(s): Clayton Bruce
+	Date: 3/25/2018
 */
 
 /*
@@ -9,7 +9,7 @@
  why did Eclipse have that error message?
  
  
- 
+ Uhhhh I did not get an error and the program executed with the intended output just fine... I'm slightly confused haha!
  */
 
 public class P7_FixThis {
@@ -28,4 +28,18 @@ public class P7_FixThis {
 			System.out.print( characterToPrint );
 		}
 	}
+}
+  /*
+*
+**
+***
+****
+*****
+*
+**
+***
+****
+*****
+
+*/
 }
